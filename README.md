@@ -1,1 +1,3 @@
 # IBM-HR-Attrition
+This dashboard provides an in-depth analysis of HR data for IBM, offering insights into key metrics and trends. It includes a holistic overview of employee statistics, detailed attrition rates, and an analysis of department-wise attrition patterns. Additionally, the dashboard explores age distribution across the workforce, job satisfaction levels, and the correlation between education fields and attrition rates.
+The visualizations and insights aim to empower decision-makers with data-driven strategies to enhance employee retention, satisfaction, and overall organizational performance. Designed for clarity and impact, this dashboard is an essential tool for HR analytics enthusiasts and professionals.
